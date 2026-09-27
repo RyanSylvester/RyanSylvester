@@ -1,4 +1,1 @@
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanSylvester&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyanSylvester&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
